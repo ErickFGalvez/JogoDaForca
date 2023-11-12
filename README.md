@@ -44,12 +44,12 @@ O estado da forca é visualizado por meio de um elemento de tela (`canvas`) que 
 
 // Lista de palavras para o jogo da forca
 const wordList = [
-  "javascript",
-  "html",
-  "css",
-  "python",
-  "java",
-  "php",
+  "Beetlejuice",
+  "Jack",
+  "Edward",
+  "Batman",
+  "Chapeleiromaluco",
+  "Timburton",
 ];
 
 // Seleciona aleatoriamente uma palavra da lista
