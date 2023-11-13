@@ -130,3 +130,17 @@ function guessLetter() {
 // Inicializa a exibição inicial na tela e adiciona um ouvinte de eventos ao botão de palpite
 updateDisplay();
 document.getElementById("guessButton").addEventListener("click", guessLetter);
+
+## Telas do Jogo
+
+### Inicio 
+![Captura de tela 2023-11-13 174243](https://github.com/ErickFGalvez/JogoDaForca/assets/128325280/f96f61eb-b739-45be-85d8-af4596030334)
+
+### Durante a Gameplay
+![Captura de tela 2023-11-13 174052](https://github.com/ErickFGalvez/JogoDaForca/assets/128325280/b60bd17d-845a-4d13-9565-3e7bdde966c8)
+
+### Perdeu o Jogo
+![Captura de tela 2023-11-13 174221](https://github.com/ErickFGalvez/JogoDaForca/assets/128325280/963f9b89-7176-4422-b7c1-e740dd563ff7)
+
+### Ganhou o Jogo
+![Captura de tela 2023-11-13 174130](https://github.com/ErickFGalvez/JogoDaForca/assets/128325280/82cd3823-36ed-47e8-aba1-29c5bd34ae87)
